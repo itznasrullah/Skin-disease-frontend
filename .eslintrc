@@ -1,0 +1,13 @@
+{
+    "extends": "next",
+    "rules": {
+      "react/no-unescaped-entities": "off",
+      "@next/next/no-page-custom-font": "off",
+      // Add other rules here and set to "off"
+      "react/display-name": "off",
+      "no-unused-vars": "off",
+      "no-console": "off",
+      // Add any other specific rules you want to disable
+    }
+  }
+  
